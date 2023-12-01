@@ -24,6 +24,10 @@ The following files were leveraged and modified from Northwestern Coding Bootcam
 - utils.seed.js
 - index.js
 
+# Video Link
+
+https://drive.google.com/file/d/1-E2XLJDEUtrPbxhJFkyyuaMVQCp4a3CW/view
+
 # License
 
 Copyright <2023> <tmcmanus95>
