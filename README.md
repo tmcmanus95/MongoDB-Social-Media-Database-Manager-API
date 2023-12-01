@@ -8,13 +8,20 @@ To use this application, naviage to the correct folder and input "node server.js
 
 # Contributions
 
-The following files were leveraged and modified from Northwestern Bootcamp Week 18 (NoSQL) module 25 :
+The following files were leveraged and modified from Northwestern Coding Bootcamp Week 18 (NoSQL) Module 25 in order to satisfy the needed functionalty for this social media database management API:
 
 - config/configuration.js
+- controllers/thoughtController.js
+- controllers/userController.js
 - models/index.js
 - models/Reaction.js
 - models/Thought.js
 - models/User.js
+- routes/index.js
+- routes/api/index.js
+- routes/api/userRoutes.js
+- utils/data.js
+- utils.seed.js
 - index.js
 
 # License

@@ -4,18 +4,18 @@ const Reaction = require("./Reaction");
 // Schema to create Thought model
 const thoughtSchema = new Schema(
   {
-    thoughtTest: {
+    thoughtText: {
       type: String,
       minLength: 1,
       maxLength: 280,
-      default: false,
+      default: " ",
     },
     createdAt: {
       type: Date,
       default: Date.now,
     },
     username: {
-      type: string,
+      type: String,
       required: true,
     },
     reactions: [Reaction],

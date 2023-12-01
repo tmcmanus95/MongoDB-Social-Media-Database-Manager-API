@@ -4,7 +4,8 @@
   "description": "This application uses Mongo DB to render, create, update, and delete posts for a social media page.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
